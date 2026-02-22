@@ -46,7 +46,7 @@ The project demonstrates the integration of IoT technologies, embedded programmi
 
 ##  Project Files
 
-- [Final Report](FireGuard-IoT-Car-Report.pdf)
+- [Final Report](FireGuard-IoT-Car.pdf)
 - [ESP32 Code](code/FireGuard-IoT-Car.ino)
 - [Project Poster](FireGuard-IoT-Car-Poster.pdf)
 
